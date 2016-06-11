@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\movement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\disableComps.cs" Line="10" Column="24" />
+      <File FileName="Assets\Scripts\playerMovement.cs" Line="34" Column="70" />
+      <File FileName="Assets\Scripts\movement.cs" Line="17" Column="52" />
+      <File FileName="Assets\Scripts\PlayerScripts\PlayerControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
